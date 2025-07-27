@@ -1,0 +1,30 @@
+Project Plan: Dynamic Blog Website
+
+Pages:
+1. index.html - Homepage: List of all blog posts.
+2. new-post.html - Page for creating new posts.
+3. post.html - View and edit individual blog posts.
+
+Technologies:
+- HTML, CSS, JavaScript
+- JavaScript localStorage for saving post data
+- Git & GitHub for version control
+
+CRUD Features:
+- Create: Add a new post
+- Read: View post content on post.html
+- Update: Edit the post
+- Delete: Remove the post
+
+Version Control Plan:
+- Use branches for each feature (e.g., feature/homepage, feature/new-post)
+- Make regular commits (at least 10–15 in total)
+- Create pull requests and merge into main
+
+Responsive Design:
+- Use CSS Flexbox/Grid
+- Make mobile/tablet/desktop friendly layout
+
+Extras:
+- Add optional image to post
+- Validate input before saving
